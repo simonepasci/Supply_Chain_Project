@@ -11,8 +11,16 @@ There are no fixed thresholds for each class, and different proportions can be a
 Examples of ABC class are
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 'A' items – 20% of the items accounts for 80% of the annual consumption value of the items
 'B' items – 30% of the items accounts for 25% of the annual consumption value of the items
+||||||| a63a60a
+'A' items – 20% of the items accounts for 70% of the annual consumption value of the items
+'B' items – 30% of the items accounts for 25% of the annual consumption value of the items
+=======
+'A' items – 20% of the items accounts for 80% of the annual consumption value of the items
+'B' items – 30% of the items accounts for 15% of the annual consumption value of the items
+>>>>>>> c4ec7965b772a4fa92e36ee5ae9d4edc0ae5618d
 ||||||| a63a60a
 'A' items – 20% of the items accounts for 70% of the annual consumption value of the items
 'B' items – 30% of the items accounts for 25% of the annual consumption value of the items
