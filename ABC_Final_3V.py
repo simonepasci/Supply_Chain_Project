@@ -48,18 +48,8 @@ def ABC_analysis(df):
     return grouped_df
 
 ABC = ABC_analysis (data)
-print(ABC)
+print(ABC)  
 print(ABC.dtypes)
 
 
 
-x_indexes = np.arange(len(ABC["ABC"]))
-width = 0.25
-
-plt.bar(x_indexes-width, ABC["Revenue"], width=width)
-plt.bar(x_indexes, ABC["Quantity"], width=width)
-plt.legend()
-plt.xlabel("ABC")
-plt.ylabel("Revenue in USD")
-plt.title("ABC Analysis")
-plt.show()
