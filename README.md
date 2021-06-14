@@ -29,6 +29,14 @@ Examples of ABC class are
 
 'C' 5% of the annual consumption value of the items
 
+Next concept is RRS or XZY analysis:
+
+Runners – are the activities, problems, processes or projects you see all the time or use on a daily basis.  Say for example the routine work you perform in your office or your work place, your runners would be the phone calls you take, e-mails you write or receive, regular meetings you facilitate with your colleagues, completion of your time sheets etc.
+
+Repeaters – are the activities, problems, processes or projects you see regularly, but not all the time.  So, for example, your project status meetings which may happen once a month, the process you follow to deal with an unhappy customer, or the form you use to return an item to a supplier.
+
+Strangers – are the activities, problems, processes or projects you rarely see or see infrequently. This may be the annual appraisal with your boss, the change project or the anniversary event for your company.
+
 
 % were modified
 
