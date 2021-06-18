@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 
 
-data = pd.read_csv(r'C:\Users\NA26035\OneDrive - Trinseo\Desktop\Udacity\Github_projects\ABC-XYZ-data_3.csv',sep =';')
+data = pd.read_csv(r ABC-XYZ-data_3.csv',sep =';')
 
 def RRS_analysis(df):
     
