@@ -50,18 +50,6 @@ RRS = RRS_analysis (data)
 print(RRS)
 print(RRS.dtypes)
 
-# save it in CSV format
-
-#ABC.to_csv(r'C:\Users\NA26035\OneDrive - Trinseo\Desktop\Udacity\Github_projects\ABC-XYZ-data_OP_3.csv')
 
 
 
-
-
-#plt.bar(ABC["ABC"], ABC["Revenue"])
-
-#plt.legend()
-#plt.xlabel("ABC")
-#plt.ylabel("Revenue in USD")
-#plt.title("ABC Analysis")
-#plt.show()
