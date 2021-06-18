@@ -10,26 +10,33 @@ ABC analysis categories
 There are no fixed thresholds for each class, and different proportions can be applied based on objectives and criteria. ABC Analysis is similar to the Pareto principle in that the 'A' items will typically account for a large proportion of the overall value, but a small percentage of the number of items.[3]
 Examples of ABC class are
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 'A' items – 20% of the items accounts for 80% of the annual consumption value of the items
 'B' items – 30% of the items accounts for 25% of the annual consumption value of the items
-||||||| a63a60a
+
 'A' items – 20% of the items accounts for 70% of the annual consumption value of the items
 'B' items – 30% of the items accounts for 25% of the annual consumption value of the items
 =======
 'A' items – 20% of the items accounts for 80% of the annual consumption value of the items
 'B' items – 30% of the items accounts for 15% of the annual consumption value of the items
->>>>>>> c4ec7965b772a4fa92e36ee5ae9d4edc0ae5618d
-||||||| a63a60a
-'A' items – 20% of the items accounts for 70% of the annual consumption value of the items
-'B' items – 30% of the items accounts for 25% of the annual consumption value of the items
+
+
+70% of the annual consumption value of the items
+25% of the annual consumption value of the items
 =======
-'A' items – 20% of the items accounts for 80% of the annual consumption value of the items
-'B' items – 30% of the items accounts for 15% of the annual consumption value of the items
->>>>>>> c4ec7965b772a4fa92e36ee5ae9d4edc0ae5618d
-'C' items – 50% of the items accounts for 5% of the annual consumption value of the items
-Another recommended breakdown of ABC classes:[4]
+'A' 80% of the annual consumption value of the items
+'B' 15% of the annual consumption value of the items
+
+'C' 5% of the annual consumption value of the items
+
+Next concept is RRS or XZY analysis:
+
+Runners – are the activities, problems, processes or projects you see all the time or use on a daily basis.  Say for example the routine work you perform in your office or your work place, your runners would be the phone calls you take, e-mails you write or receive, regular meetings you facilitate with your colleagues, completion of your time sheets etc.
+
+Repeaters – are the activities, problems, processes or projects you see regularly, but not all the time.  So, for example, your project status meetings which may happen once a month, the process you follow to deal with an unhappy customer, or the form you use to return an item to a supplier.
+
+Strangers – are the activities, problems, processes or projects you rarely see or see infrequently. This may be the annual appraisal with your boss, the change project or the anniversary event for your company.
+
 
 % were modified
 
