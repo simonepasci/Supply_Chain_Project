@@ -61,9 +61,9 @@ RRS = RRS_analysis (data)
 print(RRS)
 print(RRS.dtypes)
 
-# save it in CSV format
 
-#RRS.to_csv(r'C:\Users\NA26035\OneDrive - Trinseo\Desktop\Udacity\Github_projects\RRS-data_OP_3.csv')
+
+
 
 
 
